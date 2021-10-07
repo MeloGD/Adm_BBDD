@@ -8,4 +8,5 @@ El grupo está compuesto por:
 
 
 ### Indice
- - [Práctica 1.](../pr1/)
+ - [Práctica 1.](./pr1/)
+ 
