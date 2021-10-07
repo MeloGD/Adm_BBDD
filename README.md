@@ -3,9 +3,9 @@ Repositiorio para los trabajos de la asignatura de Administración y Diseño de 
 
 El grupo está compuesto por:
  - Aday Padilla Amaya.
- - Carlota
+ - Carlota Marrero Morales.
  - J. Carmelo González Domínguez.
 
 
 ### Indice
- - Práctica 1
+ - [Práctica 1.](../pr1/)
