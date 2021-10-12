@@ -8,5 +8,6 @@ El grupo está compuesto por:
 
 
 ### Indice
- - [Práctica 1.](./pr1/)
- 
+ - Práctica 1.
+     - [Práctica 1.1](./pr1/pr1.1/README.md)
+     - [Práctica 1.2](./pr1/pr1.2/README.md)
