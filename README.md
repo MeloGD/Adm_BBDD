@@ -7,7 +7,7 @@ El grupo está compuesto por:
  - J. Carmelo González Domínguez.
 
 
-### Indice
+### Índice
  - Práctica 1.
-     - [Práctica 1.1](./pr1/pr1.1/README.md)
-     - [Práctica 1.2](./pr1/pr1.2/README.md)
+     - [Práctica 1.1: Conclusiones sobre artículos.](./pr1/pr1.1/README.md)
+     - [Práctica 1.2: Supuesto de proyecto de Base de Datos: Agua y Desarrollo.](./pr1/pr1.2/README.md)
