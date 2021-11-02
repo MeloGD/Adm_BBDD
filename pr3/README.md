@@ -13,7 +13,10 @@
 
 ### Fotografías de comandos  
 
-#### select * from cliente;  
+#### - select * from cliente;  
+![img](./res/cliente.png)  
+
+#### - select * from ; 
 
 
 
