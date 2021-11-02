@@ -26,7 +26,7 @@
 ![img](./res/empleado_has_zona.png)  
 
 #### - select * from producto;  
-![img](./res/producto.png)  
+![img](./res/prdocto.png)  
 
 #### - select * from producto_has_cliente;  
 ![img](./res/producto_has_cliente.png)  
