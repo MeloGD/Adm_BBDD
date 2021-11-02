@@ -13,10 +13,26 @@
 
 ### Fotografías de comandos  
 
+#### - \dt;  
+![img](./res/dt.png)  
+
 #### - select * from cliente;  
 ![img](./res/cliente.png)  
 
-#### - select * from ; 
+#### - select * from empleado;  
+![img](./res/empleado.png)  
 
+#### - select * from empleado_has_zona;  
+![img](./res/empleado_has_zona.png)  
 
+#### - select * from producto;  
+![img](./res/producto.png)  
 
+#### - select * from producto_has_cliente;  
+![img](./res/producto_has_cliente.png)  
+
+#### - select * from zona;  
+![img](./res/zona.png)  
+
+#### - select * from producto_has_zona;  
+![img](./res/producto_has_zona.png)  
