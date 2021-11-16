@@ -22,7 +22,7 @@
 ![img](./images/municipio.png)  
 
 #### - select * from producto;  
-![img](./images/prdocto.png)  
+![img](./images/producto.png)  
 
 #### - select * from producto_has_cliente;  
 ![img](./images/producto_cliente.png)  
