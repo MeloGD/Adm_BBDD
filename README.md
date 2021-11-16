@@ -17,4 +17,6 @@ El grupo está compuesto por:
      - [Práctica 2 Introducción a postgreSQL: Carmelo](./pr2/pr2.carmelo/README.md)
  - Práctica 3. 
      - [Práctica 3 Modelo Lógico Relacional: Viveros.](./pr3/README.md)
-     
+ - Práctica 4. 
+     - [Práctica 4 Modelo Lógico Relacional (Disparadores): Viveros.](./pr4/README.md)
+ 
