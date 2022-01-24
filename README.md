@@ -5,6 +5,7 @@ El grupo está compuesto por:
  - Aday Padilla Amaya.
  - Carlota Marrero Morales.
  - J. Carmelo González Domínguez.
+ - Claudio Néstor Yanes Mesa.
 
 
 ### Índice
