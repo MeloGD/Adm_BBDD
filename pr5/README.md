@@ -1,5 +1,13 @@
 # Modelo Objeto-Relacional Arquitectos  
+
+*El script adjunto requiere versiones de postgres superiores o iguales a la 12.*   
+---  
 ![img](./res/uml_arquitectos.svg)  
+Características de Objeto-Relacional utilizadas:  
+- Herencia (polígono hereda de figura).  
+- Tipos compuestos (dirección, punto).  
+- Enumeración (tipos de vía).  
+
 
 A continuación se muestra la implementación junto con múltiples pruebas realizadas a la base de datos "Arquitectos".  
 
