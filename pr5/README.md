@@ -3,7 +3,8 @@
 *El script adjunto requiere versiones de postgres superiores o iguales a la 12.*   
 ---  
 ![img](./res/uml_arquitectos.svg)  
-Características de Objeto-Relacional utilizadas:  
+---
+## Características de Objeto-Relacional utilizadas: 
 - Herencia (polígono hereda de figura).  
 - Tipos compuestos (dirección, punto).  
 - Enumeración (tipos de vía).  
