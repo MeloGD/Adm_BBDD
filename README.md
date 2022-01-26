@@ -20,6 +20,8 @@ El grupo está compuesto por:
      - [Práctica 3 Modelo Lógico Relacional: Viveros.](./pr3/README.md)
  - Práctica 4. 
      - [Práctica 4 Modelo Lógico Relacional (Disparadores): Viveros.](./pr4/README.md)
+  - Práctica 5. 
+     - [Práctica 5 Modelo Objeto-Relacional Arquitectos.](./pr5/README.md)
  - Proyecto final. 
      - [Proyecto final](./Final)
 
