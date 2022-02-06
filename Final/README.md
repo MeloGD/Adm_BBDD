@@ -5,9 +5,9 @@ WIP - Descripcion de la tarea
 ## Enlaces a documentos
 
 - [Requisitos](./Requisitos.pdf)
-- [Modelo Conceptual (E/R)](./ERE.pdf)
-- [Modelo Lógico Relacional](./)
-- [Modelo Lógico Objeto-Relacional (UML)](./)
+- [Modelo Conceptual (E/R)](./ER/)
+- [Modelo Lógico Relacional](./Relacional)
+- [Modelo Lógico Objeto-Relacional (UML)](./UML)
 - [Generación de código (Scripts)](./Scripts/)
 - [Carga de datos](./)
 - [Distribución de tareas](./)
