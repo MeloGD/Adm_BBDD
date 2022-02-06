@@ -8,7 +8,7 @@ WIP - Descripcion de la tarea
 - [Modelo Conceptual (E/R)](./ERE.pdf)
 - [Modelo Lógico Relacional](./)
 - [Modelo Lógico Objeto-Relacional (UML)](./)
-- [Generación de código (Scripts)](./)
+- [Generación de código (Scripts)](./Scripts/)
 - [Carga de datos](./)
 - [Distribución de tareas](./)
 
