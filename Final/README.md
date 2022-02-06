@@ -1,6 +1,6 @@
 # Proyecto Final: Sistema de bases de datos para empresa logística
 
-WIP - Descripcion de la tarea
+En este proyecto hemos propuesto un posible problema al que se podría enfrentar una empresa de logística si quisiera digitalizar completamente su infraestructura relativo a su almacenamiento de datos y lo hemos resuelto con los conocimientos que hemos adquirido durante la asignatura. 
 
 ## Enlaces a documentos
 
@@ -9,8 +9,8 @@ WIP - Descripcion de la tarea
 - [Modelo Lógico Relacional](./Relacional)
 - [Modelo Lógico Objeto-Relacional (UML)](./UML)
 - [Generación de código (Scripts)](./Scripts/)
-- [Carga de datos](./)
-- [Distribución de tareas](./)
+- [Carga de datos y pruebas](./CargaDatos)
+- [Distribución de tareas](./DistribucionTareas.pdf)
 
 ## Autores
 - J. Carmelo González Domínguez
